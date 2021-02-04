@@ -1,0 +1,28 @@
+.topbg{
+    background-image: url("stylusimage.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 30vh;
+    background-position: center center;
+}
+
+.secondbg{
+    background-color: deepskyblue;
+    height: 30vh;
+}
+
+.thirdbg{
+    height: 25vh;
+}
+
+.fourfbg{
+    background-image: url("carpetcity.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 10vh;
+    background-position: center center;
+}
+
+.lastbg{
+    background-color: black;
+}
