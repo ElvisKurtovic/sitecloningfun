@@ -25,4 +25,9 @@
 
 .lastbg{
     background-color: black;
+    height: 5vh;
+}
+
+.lastThing{
+    font-size: 8pt;
 }
